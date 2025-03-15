@@ -36,11 +36,6 @@ class MainActivity : ComponentActivity() {
     }
 
     @Composable
-    fun DisplayImage() {
-
-    }
-
-    @Composable
     fun MyScrollableLayout() {
         val scrollState = rememberScrollState()
         Column(
