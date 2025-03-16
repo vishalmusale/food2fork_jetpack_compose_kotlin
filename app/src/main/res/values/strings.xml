@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Food2Fork Jetpack Compose Kotlin</string>
+    <string name="recipe_list">Recipe List</string>
 </resources>
